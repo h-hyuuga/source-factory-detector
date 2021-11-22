@@ -1,0 +1,6 @@
+name: 'Source Factory Detector'
+description: 'Detects whether a source request is for a known factory source'
+author: 'h-hyuuga'
+runs:
+  using: 'node12'
+  main: 'dist/index.js'
